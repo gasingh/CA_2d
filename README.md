@@ -1,5 +1,5 @@
-# CA_2d
-2D Cellular Automata
+# Cellular Automata
+2D Cellular Automata by Stephen Wolfram
 
 I got curious about Cellular Automata, after listening to the cool podcast by Lex Friedman, interviewing Stephen Wolfram.
 

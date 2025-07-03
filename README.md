@@ -15,6 +15,7 @@ I got curious about Cellular Automata, after listening to the cool podcast by Le
 ![](https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_032400_rule30_res50.jpg)
 ![](https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_032610_rule30_res100_grid.jpg)
 ![](https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_033048_rule30_res200.jpg)
+![](https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_035014_rule30_res500.jpg)
 
 
 ## Rule 

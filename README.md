@@ -43,13 +43,12 @@ I got curious about Cellular Automata, after listening to the cool podcast by Le
   ## Rule 225
   
 <p align="center" width="100%">
+<img src= "https://github.com/gasingh/CA_2d/blob/main/rule225.gif" width = "600"> <br>
 <img src= "https://github.com/gasingh/CA_2d/blob/main/rule225_color.gif" width = "600"> <br>
 <img src= "https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_225453_rule225.jpg" width = "300">
 <img src= "https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_225530_rule225.jpg" width = "300"> <br>
 <img src= "https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_225536_rule225.jpg" width = "300">
 <img src= "https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_225542_rule225.jpg" width = "300"> <br>
-
-  
 </p>
 
 

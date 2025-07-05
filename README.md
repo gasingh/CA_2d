@@ -3,6 +3,7 @@
 
 I got curious about Cellular Automata, after listening to the cool podcast by Lex Friedman, interviewing Stephen Wolfram.
 
+
 ## Rule 110
 
 ![](https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_034409_rule110_res50_grid.jpg)
@@ -20,18 +21,25 @@ I got curious about Cellular Automata, after listening to the cool podcast by Le
 
 ## Rule 105
 
+<p align="center" width="100%">
 <img src="https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_235006_rule105.jpg" width="700">
 <img src="https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250703_235049_rule105.jpg" width="700">
 <img src="https://github.com/gasingh/CA_2d/blob/main/rule105.gif" width="700">
+</p>
 
-## Rule 73
+  ## Rule 73
 
+<p align="center" width="100%">
 <img src="https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250704_011952_rule73.jpg" width="700">
 <img src="https://github.com/gasingh/CA_2d/blob/main/ViewCapture20250704_012049_rule73.jpg" width="700">
-<img src="https://github.com/gasingh/CA_2d/blob/main/rule73.gif" width="500">
-<img src="https://github.com/gasingh/CA_2d/blob/main/rule73_color_.gif" width="500">
+<img src="https://github.com/gasingh/CA_2d/blob/main/rule73.gif" width="400"> <img src="https://github.com/gasingh/CA_2d/blob/main/rule73_color_.gif" width="400">
+</p>
 
-## Rule 225
-
+  ## Rule 225
+  
+<p align="center" width="100%">
 <img src= "https://github.com/gasingh/CA_2d/blob/main/rule225_color.gif" width = "500">
+</p>
 
+
+</p>
